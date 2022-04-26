@@ -1,0 +1,1 @@
+{"AMS": 1, "ATL": 2, "BKK": 1, "CAN": 2, "CDG": 1, "CGK": 2, "CLT": 1, "DEN": 3, "DFW": 1, "FCO": 1, "HND": 1, "IAH": 2, "JFK": 1, "KUL": 2, "LAS": 1, "LHR": 1, "MAD": 1, "MIA": 1, "MUC": 1, "ORD": 2, "PEK": 1, "PVG": 1}
